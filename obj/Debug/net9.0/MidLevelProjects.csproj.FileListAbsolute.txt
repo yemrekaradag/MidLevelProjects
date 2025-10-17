@@ -1,0 +1,15 @@
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\bin\Debug\net9.0\MidLevelProjects.exe
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\bin\Debug\net9.0\MidLevelProjects.deps.json
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\bin\Debug\net9.0\MidLevelProjects.runtimeconfig.json
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\bin\Debug\net9.0\MidLevelProjects.dll
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\bin\Debug\net9.0\MidLevelProjects.pdb
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\MidLevelProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\MidLevelProjects.AssemblyInfoInputs.cache
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\MidLevelProjects.AssemblyInfo.cs
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\MidLevelProjects.csproj.CoreCompileInputs.cache
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\MidLevelProjects.sourcelink.json
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\MidLevelProjects.dll
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\refint\MidLevelProjects.dll
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\MidLevelProjects.pdb
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\MidLevelProjects.genruntimeconfig.cache
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\ref\MidLevelProjects.dll
