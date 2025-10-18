@@ -1,0 +1,14 @@
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\NumberPairCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\NumberPairCalculator.AssemblyInfoInputs.cache
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\NumberPairCalculator.AssemblyInfo.cs
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\NumberPairCalculator.csproj.CoreCompileInputs.cache
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\bin\Debug\net9.0\NumberPairCalculator.exe
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\bin\Debug\net9.0\NumberPairCalculator.deps.json
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\bin\Debug\net9.0\NumberPairCalculator.runtimeconfig.json
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\bin\Debug\net9.0\NumberPairCalculator.dll
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\bin\Debug\net9.0\NumberPairCalculator.pdb
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\NumberPairCalculator.dll
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\refint\NumberPairCalculator.dll
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\NumberPairCalculator.pdb
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\NumberPairCalculator.genruntimeconfig.cache
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\ref\NumberPairCalculator.dll
