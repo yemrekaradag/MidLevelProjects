@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yemre\\OneDrive\\Masaüstü\\patika\\MidLevelProjects\\NumberPairCalculator.csproj",
-      "projectName": "NumberPairCalculator",
-      "projectPath": "C:\\Users\\yemre\\OneDrive\\Masaüstü\\patika\\MidLevelProjects\\NumberPairCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\yemre\\OneDrive\\Masaüstü\\patika\\MidLevelProjects\\DifferenceCalculator.csproj",
+      "projectName": "DifferenceCalculator",
+      "projectPath": "C:\\Users\\yemre\\OneDrive\\Masaüstü\\patika\\MidLevelProjects\\DifferenceCalculator.csproj",
       "packagesPath": "C:\\Users\\yemre\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\yemre\\OneDrive\\Masaüstü\\patika\\MidLevelProjects\\obj\\",
       "projectStyle": "PackageReference",

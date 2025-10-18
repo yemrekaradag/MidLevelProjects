@@ -1,0 +1,15 @@
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\bin\Debug\net9.0\DifferenceCalculator.exe
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\bin\Debug\net9.0\DifferenceCalculator.deps.json
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\bin\Debug\net9.0\DifferenceCalculator.runtimeconfig.json
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\bin\Debug\net9.0\DifferenceCalculator.dll
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\bin\Debug\net9.0\DifferenceCalculator.pdb
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\DifferenceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\DifferenceCalculator.AssemblyInfoInputs.cache
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\DifferenceCalculator.AssemblyInfo.cs
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\DifferenceCalculator.csproj.CoreCompileInputs.cache
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\DifferenceCalculator.sourcelink.json
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\DifferenceCalculator.dll
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\refint\DifferenceCalculator.dll
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\DifferenceCalculator.pdb
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\DifferenceCalculator.genruntimeconfig.cache
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\ref\DifferenceCalculator.dll

@@ -1,13 +1,13 @@
-﻿using NumberPairCalculator.Services;
+﻿using DifferenceCalculator.Services;
 
-namespace NumberPairCalculator;
+namespace DifferenceCalculator;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("=== Number Pair Calculator ===");
-        Console.WriteLine("Enter pairs of integers (e.g., 2 3 1 5 2 5 3 3):");
+        Console.WriteLine("=== Difference Calculator ===");
+        Console.WriteLine("Enter numbers separated by spaces (e.g., 56 45 68 77):");
 
         string input = Console.ReadLine();
 
@@ -18,10 +18,10 @@ class Program
         }
 
         string[] numbers = input.Split(' ', StringSplitOptions.RemoveEmptyEntries);
-        PairProcessor processor = new PairProcessor();
-        string result = processor.CalculatePairs(numbers);
+        DifferenceService service = new DifferenceService();
+        (int smallerSum, int largerSum) = service.CalculateDifferences(numbers);
 
-        Console.WriteLine("\nOutput:");
-        Console.WriteLine(result);
+        Console.WriteLine($"\nOutput:");
+        Console.WriteLine($"{smallerSum} {largerSum}");
     }
 }
