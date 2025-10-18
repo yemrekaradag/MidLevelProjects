@@ -1,13 +1,13 @@
-﻿using SwapFirstLastCharApp.Services;
+﻿using DoubleConsonantChecker.Services;
 
-namespace SwapFirstLastCharApp;
+namespace DoubleConsonantChecker;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("=== Swap First and Last Character App ===");
-        Console.WriteLine("Enter words separated by spaces (e.g., Merhaba Hello Algoritma x):");
+        Console.WriteLine("=== Double Consonant Checker ===");
+        Console.WriteLine("Enter words separated by spaces (e.g., Merhaba Umut Arya):");
 
         string input = Console.ReadLine();
 
@@ -17,8 +17,8 @@ class Program
             return;
         }
 
-        StringSwapper swapper = new StringSwapper();
-        string result = swapper.SwapFirstAndLastChars(input);
+        ConsonantChecker checker = new ConsonantChecker();
+        string result = checker.CheckWords(input);
 
         Console.WriteLine("\nOutput:");
         Console.WriteLine(result);

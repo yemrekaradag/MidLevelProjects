@@ -1,0 +1,15 @@
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\bin\Debug\net9.0\DoubleConsonantChecker.exe
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\bin\Debug\net9.0\DoubleConsonantChecker.deps.json
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\bin\Debug\net9.0\DoubleConsonantChecker.runtimeconfig.json
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\bin\Debug\net9.0\DoubleConsonantChecker.dll
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\bin\Debug\net9.0\DoubleConsonantChecker.pdb
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\DoubleConsonantChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\DoubleConsonantChecker.AssemblyInfoInputs.cache
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\DoubleConsonantChecker.AssemblyInfo.cs
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\DoubleConsonantChecker.csproj.CoreCompileInputs.cache
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\DoubleConsonantChecker.sourcelink.json
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\DoubleConsonantChecker.dll
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\refint\DoubleConsonantChecker.dll
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\DoubleConsonantChecker.pdb
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\DoubleConsonantChecker.genruntimeconfig.cache
+C:\Users\yemre\OneDrive\Masaüstü\patika\MidLevelProjects\obj\Debug\net9.0\ref\DoubleConsonantChecker.dll
