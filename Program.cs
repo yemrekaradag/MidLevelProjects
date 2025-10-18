@@ -1,13 +1,13 @@
-﻿using DifferenceCalculator.Services;
+﻿using SwapFirstLastCharApp.Services;
 
-namespace DifferenceCalculator;
+namespace SwapFirstLastCharApp;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("=== Difference Calculator ===");
-        Console.WriteLine("Enter numbers separated by spaces (e.g., 56 45 68 77):");
+        Console.WriteLine("=== Swap First and Last Character App ===");
+        Console.WriteLine("Enter words separated by spaces (e.g., Merhaba Hello Algoritma x):");
 
         string input = Console.ReadLine();
 
@@ -17,11 +17,10 @@ class Program
             return;
         }
 
-        string[] numbers = input.Split(' ', StringSplitOptions.RemoveEmptyEntries);
-        DifferenceService service = new DifferenceService();
-        (int smallerSum, int largerSum) = service.CalculateDifferences(numbers);
+        StringSwapper swapper = new StringSwapper();
+        string result = swapper.SwapFirstAndLastChars(input);
 
-        Console.WriteLine($"\nOutput:");
-        Console.WriteLine($"{smallerSum} {largerSum}");
+        Console.WriteLine("\nOutput:");
+        Console.WriteLine(result);
     }
 }

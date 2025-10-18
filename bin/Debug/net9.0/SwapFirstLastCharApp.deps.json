@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SwapFirstLastCharApp/1.0.0": {
+        "runtime": {
+          "SwapFirstLastCharApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SwapFirstLastCharApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
